@@ -52,7 +52,7 @@ More at [rexdanquah.dev/blog](https://rexdanquah.dev/blog).
 
 **Microsoft Azure** → Solutions Architect Expert, Administrator Associate, Infrastructure Solutions
 
-**Google / Coursera** → AI Fundamentals, AI for Brainstorming and Planning, AI for Research and Insights
+**Google** → AI Essentials Professional Certificate
 
 **CompTIA** → Security+
 
