@@ -39,10 +39,6 @@ I'm a software developer building mobile, web, and backend products end-to-end. 
 
 <div align="center">
 
-![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwamerex101&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kwamerex101&layout=compact&langs_count=8&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwamerex101&theme=tokyonight)
 
 </div>
