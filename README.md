@@ -50,7 +50,7 @@ More at [rexdanquah.dev/blog](https://rexdanquah.dev/blog).
 
 ## 🎓 Education
 
-**MSc, Digital Forensics & Cyber Security**
+**MSc, Digital Forensics & Cyber Security** &middot; Sept 2023 to Sept 2024
 
 ## 🪪 Certifications
 
