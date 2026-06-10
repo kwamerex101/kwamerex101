@@ -48,6 +48,10 @@ More at [rexdanquah.dev/blog](https://rexdanquah.dev/blog).
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
+## 🎓 Education
+
+**MSc, Digital Forensics & Cyber Security**
+
 ## 🪪 Certifications
 
 **Microsoft Azure** → Solutions Architect Expert, Administrator Associate, Infrastructure Solutions
