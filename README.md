@@ -56,6 +56,8 @@ More at [rexdanquah.dev/blog](https://rexdanquah.dev/blog).
 
 **Microsoft Azure** → Solutions Architect Expert, Administrator Associate, Infrastructure Solutions
 
+**Anthropic** → Claude 101
+
 **Google** → AI Essentials Professional Certificate
 
 **CompTIA** → Security+
