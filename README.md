@@ -6,14 +6,14 @@ Hi 👋 My name is Theophilus RexDanquah
 **Full-Stack Developer**
 ---
 
-I'm a software developer building mobile, web, and backend products end-to-end. My day-to-day spans **Dart/Flutter** on mobile, **Vue/Nuxt & TypeScript** on the web, and **PHP/Python** on the backend — with a healthy dose of Firebase wiring it all together.
+I build things for mobile, web, and the backend. Most days that means Flutter for apps, Vue and Nuxt on the web, and PHP or Python on the server, with Firebase holding a lot of it together. I like shipping real products and figuring out the messy parts as I go.
 
-- 🌍 &nbsp;I'm based in Accra, Ghana
-- 🖥️ &nbsp;See my portfolio at [rexdanquah.dev](https://rexdanquah.dev)
-- ✉️ &nbsp;Reach me at [kwamerex101@gmail.com](mailto:kwamerex101@gmail.com)
-- 🚀 &nbsp;I'm currently working on **[SEO Audit Studio](https://github.com/kwamerex101/seo-audit-studio)** — a multi-company SEO + GEO (Generative Engine Optimization) audit app
-- 🧠 &nbsp;I'm currently learning **AI / LLM integration**
-- 🤝 &nbsp;I'm open to collaborating on interesting projects
+- 🌍 &nbsp;Based in Accra, Ghana
+- 🖥️ &nbsp;Portfolio: [rexdanquah.dev](https://rexdanquah.dev)
+- ✉️ &nbsp;Email: [kwamerex101@gmail.com](mailto:kwamerex101@gmail.com)
+- 🚀 &nbsp;Working on **[SEO Audit Studio](https://github.com/kwamerex101/seo-audit-studio)**, a multi-company SEO + GEO audit app
+- 🧠 &nbsp;Learning AI and LLM integration
+- 🤝 &nbsp;Open to collaborating on interesting projects
 
 ## 🌐 Socials:
 
@@ -43,8 +43,20 @@ I'm a software developer building mobile, web, and backend products end-to-end. 
 
 </div>
 
-## 🏛️ Quote
+## 🏛️ Words I Code By
 
-> *"You have power over your mind — not outside events. Realize this, and you will find strength."*
->
-> — Marcus Aurelius, *Meditations*
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### &ldquo;You have power over your mind, not outside events. Realize this, and you will find strength.&rdquo;
+
+**Marcus Aurelius** &middot; *Meditations*
+
+</td>
+</tr>
+</table>
+
+</div>
