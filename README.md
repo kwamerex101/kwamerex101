@@ -48,6 +48,14 @@ More at [rexdanquah.dev/blog](https://rexdanquah.dev/blog).
 ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
+## 🪪 Certifications
+
+**Microsoft Azure** → Solutions Architect Expert, Administrator Associate, Infrastructure Solutions
+
+**Google / Coursera** → AI Fundamentals, AI for Brainstorming and Planning, AI for Research and Insights
+
+**CompTIA** → Security+
+
 ## 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rexdanquah.dev-2ea44f?logo=googlechrome&logoColor=white)](https://rexdanquah.dev)
